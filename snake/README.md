@@ -9,6 +9,7 @@ If you want to run this game, make sure you adjust(reduce) the terminal's line h
 equal / nearly equal to the spacing b/w two characters on the same line according to your font and font size. Or, the 
 snake wont have the same speed both vertically and horizontally & there will be gaps b/w the segments when moving vertically.
 
+Watch:-
 [![Watch the video](https://img.youtube.com/vi/opSWrpPkYgE/0.jpg)](https://youtu.be/opSWrpPkYgE)
 
 
