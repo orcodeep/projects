@@ -26,4 +26,4 @@ Then simply run: 'make' or do 'gcc -o snake snake.c -lncurses' then run the exec
 
 #### On Ubuntu/Debian:
 ```bash
-sudo apt-get install libncurses5-dev libncursesw5-dev
+sudo apt-get install libncurses5-dev
