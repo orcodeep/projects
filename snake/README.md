@@ -21,9 +21,6 @@ Make sure you have the following installed:
 
 Then simply run: 'make' or do 'gcc -o snake snake.c -lncurses' then run the executable.
 
-Or if you use some other compiler figure it out.
-
-
 ### Installing ncurses
 
 #### On Ubuntu/Debian:
