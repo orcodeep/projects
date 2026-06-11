@@ -26,5 +26,12 @@
     "extensions.autoUpdate": false,
 
     "git.decorations.enabled": false,
-    "explorer.decorations.colors": false
+    "explorer.decorations.colors": false, 
+    "git.openRepositoryInParentFolders": "never", 
+
+    "editor.selectionHighlight": false,
+    "editor.occurrencesHighlight": "off",
+    "editor.lightbulb.enabled": "off",
+    "editor.links": false, 
+    
 }
