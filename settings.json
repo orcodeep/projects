@@ -1,0 +1,30 @@
+// VSCODE preferences
+{
+    "files.autoSave": "afterDelay",
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "editor.minimap.enabled": false,
+    "editor.hover.enabled": "off",
+    "editor.inlayHints.enabled": "off",
+    "editor.pasteAs.preferences": [
+
+    ],
+    "workbench.statusBar.visible": false,
+    "workbench.iconTheme": "vs-minimal",
+    "workbench.editor.labelFormat": "medium",
+    "workbench.layoutControl.enabled": false,
+
+    "breadcrumbs.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "editor.guides.indentation": false,
+
+    "editor.glyphMargin": false,
+    "editor.folding": false,
+    "window.commandCenter": false,
+
+    "update.mode": "none",
+    "extensions.autoCheckUpdates": false,
+    "extensions.autoUpdate": false,
+
+    "git.decorations.enabled": false,
+    "explorer.decorations.colors": false
+}
